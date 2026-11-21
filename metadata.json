@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Fight",
+  "description": "A local two-player retro pixel-art educational fighting game where correct answers launch attacks and decide the battle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
